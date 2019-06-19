@@ -1,6 +1,10 @@
-# Bootstrap 4 test page
+# Bootstrap 4.3.1 test page
 
-## *Sample page for **[Bootstrap 4.1.x](https://getbootstrap.com/)***
+## *Sample page for **[Bootstrap 4.3.1](https://getbootstrap.com/)***
+
+*Version 1.1*
+
+**Updated for Bootstrap 4.3.1 by djibe.**
 
 *Version 1.0*
 
@@ -15,7 +19,7 @@
 
 
 
-## [Web demo](https://juzraai.github.io/bootstrap4-test-page/)
+## [Web demo](https://djibe.github.io/bootstrap4-test-page/)
 
 
 ## Contributing
